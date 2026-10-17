@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600" viewBox="0 0 600 600">
+  <title>opencode-go-black.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M60 0 L540 0 L540 600 L60 600 Z M180 120 L420 120 L420 240 L180 240 Z" fill="#000000" fill-rule="evenodd"/>
+    <path d="M180 240 L420 240 L420 480 L180 480 Z" fill="#4b4646"/>
+  </g>
+</svg>

@@ -146,7 +146,7 @@ Panel {
         width: Style.space(13)
         height: width
         anchors.verticalCenter: parent.verticalCenter
-        source: Qt.resolvedUrl("opencode-go.png")
+        source: Qt.resolvedUrl("opencode-go.svg")
         sourceSize: Qt.size(26, 26)
         layer.enabled: true
         layer.effect: MultiEffect {
@@ -236,7 +236,7 @@ Panel {
               Image {
                 width: Style.font.display
                 height: width
-                source: Qt.resolvedUrl("opencode-go.png")
+                source: Qt.resolvedUrl("opencode-go.svg")
                 sourceSize: Qt.size(48, 48)
                 layer.enabled: true
                 layer.effect: MultiEffect {
